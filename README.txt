@@ -20,6 +20,14 @@ Streaming sensor data acquisition for mobile phone (Java+Bluetooth).
 License
 -------
 
-This software is licensed under the terms of the GPL v.2 license.
+This software is licensed under the terms of the BSD license.
+
+
+Notes
+-----
+
+29.02.2012: the co-authors, Clemens Lombriser and Daniel Roggen, agreed to relicense this software under the BSD license.
+
+
 
 
