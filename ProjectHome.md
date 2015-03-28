@@ -1,0 +1,1 @@
+The Java BluetoothGateway is a tool to discover the sensors, record their data into a file, or act as a TCP server for a remote client. It receives data from multiple sensors and synchronizes and resamples their datastreams. Upon lost connection, BluetoothGateway attempts to reconnect to the sensor. It runs on a Windows Mobile device or a standard PC.
